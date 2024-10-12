@@ -1,5 +1,3 @@
-# Luis Ares - Portafolio de Proyectos
-
 <p align="center">
   <img src="git.jpg" alt="Icono o Foto de Perfil" width="100%" height="100%">
 </p>
@@ -42,7 +40,8 @@ Bienvenido a mi repositorio de proyectos donde comparto mis soluciones a desafí
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" title="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" title="Django"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/800px-Django_logo.svg.png" alt="Django" width="50" title="Django"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" title="Flask"/>
 </p>
 
