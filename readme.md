@@ -23,32 +23,33 @@ Bienvenido a mi repositorio de proyectos donde comparto mis soluciones a desafí
 
 ## Educación
 
-- **Técnico Superior en Desarrollo de Aplicaciones Web** | (2024)  
-- **Desarrollo de Aplicaciones con Tecnología Web** | (2023)  
-- **Técnico en Sistemas Microinformáticos y Redes** | (2012)  
+- **Técnico Superior en Desarrollo de Aplicaciones Web** | 2024  
+- **Desarrollo de Aplicaciones con Tecnología Web** | 2023  
+- **Técnico en Sistemas Microinformáticos y Redes** | 2012  
 
 ## Competencias Técnicas
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/000000/php-logo.png" alt="PHP" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/html-5.png" alt="HTML" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/css3.png" alt="CSS" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png" alt="Java" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="MySQL" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" title="MySQL"/>
 </p>
 
 - **Frameworks**: 
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/nodejs.png" alt="NodeJS" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/django.png" alt="Django" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/flask.png" alt="Flask" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" title="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" title="Flask"/>
 </p>
 
 - **Estilos**: 
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/000000/bootstrap.png" alt="Bootstrap" width="50"/>
-  <img src="https://img.icons8.com/ios/50/000000/tailwindcss.png" alt="Tailwind" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" title="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" title="Tailwind CSS"/>
 </p>
+
