@@ -60,5 +60,5 @@ Bienvenido a mi repositorio de proyectos donde comparto mis soluciones a desafí
 
 ## Proyectos
 <p align="center">
-  Explora mis proyectos y siéntete libre de dejar comentarios o sugerencias.
+  Explora mis proyectos y siéntete libre de dejar comentarios o sugerencias. Puedes ver todos mis proyectos en mi perfil de GitHub: [Mis Proyectos](https://github.com/luisaap-dev) 📂
 </p>
