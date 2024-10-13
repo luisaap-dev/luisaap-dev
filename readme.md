@@ -40,7 +40,6 @@ Bienvenido a mi repositorio de proyectos donde comparto mis soluciones a desafí
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" title="MySQL"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" title="MongoDB"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" title="PostgreSQL"/>
 </p>
 
 ### Frameworks y Librerías
