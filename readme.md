@@ -2,8 +2,8 @@
   <img src="git.jpg" alt="Icono o Foto de Perfil" width="100%" height="100%">
 </p>
 
-Bienvenido a mi repositorio de proyectos donde comparto mis soluciones a desafíos y otras aplicaciones que he desarrollado.
-🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨(Estamos actualizando repositos)🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+**Bienvenido a mi repositorio de proyectos donde comparto mis soluciones a desafíos y otras aplicaciones que he desarrollado.**
+**🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨(Estamos actualizando repositos)🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨**
 
 ## Sobre mí
 
