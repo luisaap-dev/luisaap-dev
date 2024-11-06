@@ -3,7 +3,6 @@
 </p>
 
 **Bienvenido a mi repositorio de proyectos donde comparto mis soluciones a desafíos y otras aplicaciones que he desarrollado.**
-**🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨(Estamos actualizando repositos)🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨**
 
 ## Sobre mí
 
