@@ -21,7 +21,7 @@
 ## Educación
 
 - **Técnico Superior en Desarrollo de Aplicaciones Web** | (2024)  
-- **Desarrollo de Aplicaciones con Tecnología Web** | (2023)  
+- **IFCD0210 - Desarrollo de Aplicaciones con Tecnología Web** | (2023)  
 - **Técnico en Sistemas Microinformáticos y Redes** | (2012)  
 
 ## Competencias Técnicas
