@@ -83,6 +83,7 @@ Desarrollador Web Full Stack y Técnico Informático con más de una década en 
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | **[Pollo Kanalla](https://pollo-kanalla.vercel.app/)** | Web corporativa para restaurante, desplegada en Vercel | React · TypeScript |
+| **[La Velada del Año VI](https://velada-iv-vert.vercel.app/)** | Propuesta candidata a web oficial del evento de Ibai Llanos en Sevilla: landing con cartelera confirmada, combate principal e información del evento, optimizada para SEO y redes sociales | Landing page · Vercel |
 | **Aplicación web (bajo NDA)** | Aplicación web Full Stack con pasarela de pago integrada | React · TypeScript · Django · Node.js |
 | **Infraestructura multisitio WordPress** | Despliegue desde cero de un VPS en OVHcloud con CloudPanel y 10 instancias WordPress independientes, optimización Nginx/PHP y DNS avanzado | OVHcloud · CloudPanel · Nginx · WordPress |
 | **Rediseño ERP Gesruta** | Rediseño UI/UX de una plataforma de planificación de rutas logísticas | HTML · CSS · JavaScript |
